@@ -12,7 +12,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-public class HW_Draw_Rectangle extends JFrame {
+public class DrawRectanglesGUI extends JFrame {
 
     // Menu GUI
     private JMenuBar menuBar;
@@ -51,10 +51,10 @@ public class HW_Draw_Rectangle extends JFrame {
     private JScrollPane scroller;
 
     public static void main(String[] args) {
-        HW_Draw_Rectangle ldRectGUI = new HW_Draw_Rectangle();
+        DrawRectanglesGUI ldRectGUI = new DrawRectanglesGUI();
     }
 
-    public HW_Draw_Rectangle() {
+    public DrawRectanglesGUI() {
         setTitle ("Draw Rectangle");
         setSize (1250, 550);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

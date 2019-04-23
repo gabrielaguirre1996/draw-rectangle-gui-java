@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HW11_Menu_DrawRect.iml" filepath="$PROJECT_DIR$/HW11_Menu_DrawRect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawRectanglesGUI.iml" filepath="$PROJECT_DIR$/DrawRectanglesGUI.iml" />
     </modules>
   </component>
 </project>
